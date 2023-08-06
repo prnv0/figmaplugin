@@ -20,7 +20,10 @@ https://github.com/prnv0/figmaplugin/assets/117537359/511b9b9d-a362-44a0-a116-2f
 ## How it Works ?
 In our plugin Colorus, there are two options. On clicking the "Random" button a random color palatte is genrated by mathematically altering the hsl values of a randomly generated hexcode. Alternatively you can input a custom hexcode and generate the adjacent color palattes. Once the palattes are generated the corresponding colors in the color palatte can be copied to the clipboard on a single click which can be used according to the need.
 
+## Libraries used
+node v16.17.0
 
+figma plugin api 1.0.0
 
 
 Below are the steps to get your plugin running. You can also find instructions at:
