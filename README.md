@@ -9,7 +9,10 @@ Welcome to Colorus – your go-to color palette generator! Unleash creativity wi
 
 
 
-https://github.com/prnv0/figmaplugin/assets/117537359/f2294495-16a4-4540-ae0d-89267193f8be
+
+
+https://github.com/prnv0/figmaplugin/assets/117537359/511b9b9d-a362-44a0-a116-2fec60478052
+
 
 
 
