@@ -25,7 +25,7 @@ node v16.17.0
 
 figma plugin api 1.0.0
 
-
+## How to Configure
 Below are the steps to get your plugin running. You can also find instructions at:
 
   https://www.figma.com/plugin-docs/plugin-quickstart-guide/
