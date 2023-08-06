@@ -1,0 +1,18 @@
+{
+  "name": "first_plugin",
+  "id": "1268938372948796580",
+  "api": "1.0.0",
+  "main": "code.ts",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains":[
+      "https://cdn.jsdelivr.net/gh/thomas-lowry/figma-plugin-ds/dist/",
+      "https://rsms.me/"   
+    ]
+  }
+}
