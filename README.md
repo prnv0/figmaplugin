@@ -1,3 +1,6 @@
+
+![256915159-85d3fbb8-aed6-4751-b051-4539df392f1a](https://github.com/prnv0/figmaplugin/assets/65241103/3410d74c-9da0-4d2b-9943-81a705d019f4)
+
 # Colorus
 Welcome to Colorus – your go-to color palette generator! Unleash creativity with random palettes or input a hex code for a personalized selection. Click to copy hexcodes of five captivating colors for your design endeavors. Elevate inspiration with Colorus – where hues meet innovation!
 
